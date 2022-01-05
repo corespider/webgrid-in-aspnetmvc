@@ -1,0 +1,23 @@
+﻿@using XML_WebGrid_aspnetmvc.Models
+@model IEnumerable<Customer>
+@{
+    ViewBag.Title = "Home Page";
+    WebGrid webGrid = new WebGrid(source: Model, canPage: true, canSort: true);
+}
+
+
+
+<div class="row">
+    @webGrid.GetHtml(
+    htmlAttributes: new { @id = "WebGrid", @class = "table" },
+    columns: webGrid.Columns(
+                webGrid.Column("customerId", "Customer Id"),
+                webGrid.Column("firstName", "First Name"),
+                webGrid.Column("lastName", "Last Name"),
+    webGrid.Column("email", "Email"),
+    webGrid.Column("street", "Street"),
+    webGrid.Column("city", "City"),
+    webGrid.Column("state", "State"),
+    webGrid.Column("zipCode", "Zip Code")
+    ))
+</div>

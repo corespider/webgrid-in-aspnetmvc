@@ -1,0 +1,206 @@
+﻿<CustomerDetails>
+  <customer>
+    <customer_id>1</customer_id>
+    <first_name>Debra</first_name>
+    <last_name>Burks</last_name>
+    <email>debra.burks@yahoo.com</email>
+    <street>9273 Thorne Ave. </street>
+    <city>Orchard Park</city>
+    <state>NY</state>
+    <zip_code>14127</zip_code>
+  </customer>
+  <customer>
+    <customer_id>2</customer_id>
+    <first_name>Kasha</first_name>
+    <last_name>Todd</last_name>
+    <email>kasha.todd@yahoo.com</email>
+    <street>910 Vine Street </street>
+    <city>Campbell</city>
+    <state>CA</state>
+    <zip_code>95008</zip_code>
+  </customer>
+  <customer>
+    <customer_id>3</customer_id>
+    <first_name>Tameka</first_name>
+    <last_name>Fisher</last_name>
+    <email>tameka.fisher@aol.com</email>
+    <street>769C Honey Creek St. </street>
+    <city>Redondo Beach</city>
+    <state>CA</state>
+    <zip_code>90278</zip_code>
+  </customer>
+  <customer>
+    <customer_id>4</customer_id>
+    <first_name>Daryl</first_name>
+    <last_name>Spence</last_name>
+    <email>daryl.spence@aol.com</email>
+    <street>988 Pearl Lane </street>
+    <city>Uniondale</city>
+    <state>NY</state>
+    <zip_code>11553</zip_code>
+  </customer>
+  <customer>
+    <customer_id>5</customer_id>
+    <first_name>Charolette</first_name>
+    <last_name>Rice</last_name>
+    <phone>(916) 381-6003</phone>
+    <email>charolette.rice@msn.com</email>
+    <street>107 River Dr. </street>
+    <city>Sacramento</city>
+    <state>CA</state>
+    <zip_code>95820</zip_code>
+  </customer>
+  <customer>
+    <customer_id>6</customer_id>
+    <first_name>Lyndsey</first_name>
+    <last_name>Bean</last_name>
+    <email>lyndsey.bean@hotmail.com</email>
+    <street>769 West Road </street>
+    <city>Fairport</city>
+    <state>NY</state>
+    <zip_code>14450</zip_code>
+  </customer>
+  <customer>
+    <customer_id>7</customer_id>
+    <first_name>Latasha</first_name>
+    <last_name>Hays</last_name>
+    <phone>(716) 986-3359</phone>
+    <email>latasha.hays@hotmail.com</email>
+    <street>7014 Manor Station Rd. </street>
+    <city>Buffalo</city>
+    <state>NY</state>
+    <zip_code>14215</zip_code>
+  </customer>
+  <customer>
+    <customer_id>8</customer_id>
+    <first_name>Jacquline</first_name>
+    <last_name>Duncan</last_name>
+    <email>jacquline.duncan@yahoo.com</email>
+    <street>15 Brown St. </street>
+    <city>Jackson Heights</city>
+    <state>NY</state>
+    <zip_code>11372</zip_code>
+  </customer>
+  <customer>
+    <customer_id>9</customer_id>
+    <first_name>Genoveva</first_name>
+    <last_name>Baldwin</last_name>
+    <email>genoveva.baldwin@msn.com</email>
+    <street>8550 Spruce Drive </street>
+    <city>Port Washington</city>
+    <state>NY</state>
+    <zip_code>11050</zip_code>
+  </customer>
+  <customer>
+    <customer_id>10</customer_id>
+    <first_name>Pamelia</first_name>
+    <last_name>Newman</last_name>
+    <email>pamelia.newman@gmail.com</email>
+    <street>476 Chestnut Ave. </street>
+    <city>Monroe</city>
+    <state>NY</state>
+    <zip_code>10950</zip_code>
+  </customer>
+  <customer>
+    <customer_id>11</customer_id>
+    <first_name>Deshawn</first_name>
+    <last_name>Mendoza</last_name>
+    <email>deshawn.mendoza@yahoo.com</email>
+    <street>8790 Cobblestone Street </street>
+    <city>Monsey</city>
+    <state>NY</state>
+    <zip_code>10952</zip_code>
+  </customer>
+  <customer>
+    <customer_id>12</customer_id>
+    <first_name>Robby</first_name>
+    <last_name>Sykes</last_name>
+    <phone>(516) 583-7761</phone>
+    <email>robby.sykes@hotmail.com</email>
+    <street>486 Rock Maple Street </street>
+    <city>Hempstead</city>
+    <state>NY</state>
+    <zip_code>11550</zip_code>
+  </customer>
+  <customer>
+    <customer_id>13</customer_id>
+    <first_name>Lashawn</first_name>
+    <last_name>Ortiz</last_name>
+    <email>lashawn.ortiz@msn.com</email>
+    <street>27 Washington Rd. </street>
+    <city>Longview</city>
+    <state>TX</state>
+    <zip_code>75604</zip_code>
+  </customer>
+  <customer>
+    <customer_id>14</customer_id>
+    <first_name>Garry</first_name>
+    <last_name>Espinoza</last_name>
+    <email>garry.espinoza@hotmail.com</email>
+    <street>7858 Rockaway Court </street>
+    <city>Forney</city>
+    <state>TX</state>
+    <zip_code>75126</zip_code>
+  </customer>
+  <customer>
+    <customer_id>15</customer_id>
+    <first_name>Linnie</first_name>
+    <last_name>Branch</last_name>
+    <email>linnie.branch@gmail.com</email>
+    <street>314 South Columbia Ave. </street>
+    <city>Plattsburgh</city>
+    <state>NY</state>
+    <zip_code>12901</zip_code>
+  </customer>
+  <customer>
+    <customer_id>16</customer_id>
+    <first_name>Emmitt</first_name>
+    <last_name>Sanchez</last_name>
+    <phone>(212) 945-8823</phone>
+    <email>emmitt.sanchez@hotmail.com</email>
+    <street>461 Squaw Creek Road </street>
+    <city>New York</city>
+    <state>NY</state>
+    <zip_code>10002</zip_code>
+  </customer>
+  <customer>
+    <customer_id>17</customer_id>
+    <first_name>Caren</first_name>
+    <last_name>Stephens</last_name>
+    <email>caren.stephens@msn.com</email>
+    <street>914 Brook St. </street>
+    <city>Scarsdale</city>
+    <state>NY</state>
+    <zip_code>10583</zip_code>
+  </customer>
+  <customer>
+    <customer_id>18</customer_id>
+    <first_name>Georgetta</first_name>
+    <last_name>Hardin</last_name>
+    <email>georgetta.hardin@aol.com</email>
+    <street>474 Chapel Dr. </street>
+    <city>Canandaigua</city>
+    <state>NY</state>
+    <zip_code>14424</zip_code>
+  </customer>
+  <customer>
+    <customer_id>19</customer_id>
+    <first_name>Lizzette</first_name>
+    <last_name>Stein</last_name>
+    <email>lizzette.stein@yahoo.com</email>
+    <street>19 Green Hill Lane </street>
+    <city>Orchard Park</city>
+    <state>NY</state>
+    <zip_code>14127</zip_code>
+  </customer>
+  <customer>
+    <customer_id>20</customer_id>
+    <first_name>Aleta</first_name>
+    <last_name>Shepard</last_name>
+    <email>aleta.shepard@aol.com</email>
+    <street>684 Howard St. </street>
+    <city>Sugar Land</city>
+    <state>TX</state>
+    <zip_code>77478</zip_code>
+  </customer>
+</CustomerDetails>
